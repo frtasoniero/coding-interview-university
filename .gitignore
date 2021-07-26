@@ -16,3 +16,9 @@ personal-9894.md
 ehthumbs.db
 Thumbs.db
 
+# dir
+extras/*
+.vscode/
+
+# files
+coding/data_structures/cpp/*.exe
